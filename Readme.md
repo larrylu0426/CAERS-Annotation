@@ -1,5 +1,13 @@
 # High-accuracy CAER-S Annotation
 
+## Overview
+- Phase: train<br>
+Total: 47966<br>
+Counts:  {'Angry': 6856, 'Disgust': 6890, 'Fear': 6873, 'Happy': 6814, 'Neutral': 6799, 'Sad': 6910, 'Surprise': 6824}
+- Phase: test<br>
+Total: 20868<br>
+Counts:  {'Angry': 2988, 'Disgust': 2980, 'Fear': 2972, 'Happy': 2990, 'Neutral': 2985, 'Sad': 2983, 'Surprise': 2970}
+
 ## Introduction to CAER-S
 
 - CAER-S is an image-based dataset of Context-Aware Emotion Recognition, which is presented in ["Context-Aware Emotion Recognition Networks"(ICCV 2019)](https://caer-dataset.github.io/file/JiyoungLee_iccv2019_CAER-Net.pdf). The download link of CAER-S is [here](https://drive.google.com/a/yonsei.ac.kr/file/d/1cqB_5UmFQXacjPeRb8Aw1VE2v0vO4bdo/view?usp=sharing)
